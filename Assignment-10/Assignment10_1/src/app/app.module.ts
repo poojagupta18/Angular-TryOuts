@@ -8,8 +8,9 @@ import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 import { BsDatepickerModule } from 'ngx-bootstrap/datepicker';
 import { HeaderComponent } from './header/header.component';
 import { PersonalInfoComponent } from './personal-info/personal-info.component';
-import { BugInfoComponent } from './bug-info/bug-info.component';
 import { FooterComponent } from './footer/footer.component';
+import { BugInfoComponent } from './bug-info/bug-info.component';
+
 
 @NgModule({
   declarations: [
